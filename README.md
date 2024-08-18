@@ -2,6 +2,9 @@
 
 A full-stack blog application built with the MERN (MongoDB, Express, React, Node.js) stack.
 
+## Demo
+https://www.loom.com/share/1ef3cc0c7bf143a29cf9e5fd145fa1e5?sid=df26feb4-9054-42ee-aba7-44dcd1f8bf31
+
 ## Features
 
 - View a list of blog posts
